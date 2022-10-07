@@ -5,12 +5,12 @@ This organization was made to publish and share all Fiap's activities from Avana
 
 **Members**
 
-👨‍💻 Alexsander da Silva; <br>
-👩‍💻 Gabriela Jesumary; <br>
-👩‍💻 Karlessandra Lima; <br>
-👩‍💻 Maria Luisa Oliveira da Costa; <br>
-👩‍💻 Quezia Yasmin de Oliveira; <br>
-👩‍💻 Vitória Neris Mendes; <br>
+👨‍💻 [Alexsander da Silva](https://github.com/silvaalexsander); <br>
+👩‍💻 [Gabriela Jesumary](https://github.com/Gabijesumary); <br>
+👩‍💻 [Karlessandra Lima](https://github.com/SandraLima03); <br>
+👩‍💻 [Maria Luisa Oliveira da Costa](https://github.com/maluhcosta); <br>
+👩‍💻 [Quezia Yasmin de Oliveira](https://github.com/queziaaquino); <br>
+👩‍💻 [Vitória Neris Mendes](https://github.com/ViihNeris); <br>
 
 ## First activity 
 Creating a form using CSS + SCSS with the following fields:
